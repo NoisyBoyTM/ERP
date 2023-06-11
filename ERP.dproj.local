@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/11/15 09:32:57.000.353,C:\ERP\Source\uFormat.pas=</Transaction>
+    <Transaction>2023/04/30 21:24:52.000.411,=C:\ERP\Source\Unit1.pas</Transaction>
+    <Transaction>2023/04/30 21:26:07.000.346,C:\ERP\Source\uItensVenda.pas=C:\ERP\Source\Unit1.pas</Transaction>
+    <Transaction>2023/04/30 21:26:07.000.346,C:\ERP\Source\uItensVenda.dfm=C:\ERP\Source\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
